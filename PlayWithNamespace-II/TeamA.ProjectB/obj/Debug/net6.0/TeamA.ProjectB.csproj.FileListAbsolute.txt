@@ -1,0 +1,12 @@
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\bin\Debug\net6.0\TeamA.ProjectB.deps.json
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\bin\Debug\net6.0\TeamA.ProjectB.dll
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\bin\Debug\net6.0\TeamA.ProjectB.pdb
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\TeamA.ProjectB.csproj.AssemblyReference.cache
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\TeamA.ProjectB.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\TeamA.ProjectB.AssemblyInfoInputs.cache
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\TeamA.ProjectB.AssemblyInfo.cs
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\TeamA.ProjectB.csproj.CoreCompileInputs.cache
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\TeamA.ProjectB.dll
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\refint\TeamA.ProjectB.dll
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\TeamA.ProjectB.pdb
+E:\C# Roadmap Coding\PlayWithNamespace-II\TeamA.ProjectB\obj\Debug\net6.0\ref\TeamA.ProjectB.dll

@@ -1,0 +1,15 @@
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\bin\Debug\net6.0\PlayWithNamespace.exe
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\bin\Debug\net6.0\PlayWithNamespace.deps.json
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\bin\Debug\net6.0\PlayWithNamespace.runtimeconfig.json
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\bin\Debug\net6.0\PlayWithNamespace.dll
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\bin\Debug\net6.0\PlayWithNamespace.pdb
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\PlayWithNamespace.csproj.AssemblyReference.cache
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\PlayWithNamespace.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\PlayWithNamespace.AssemblyInfoInputs.cache
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\PlayWithNamespace.AssemblyInfo.cs
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\PlayWithNamespace.csproj.CoreCompileInputs.cache
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\PlayWithNamespace.dll
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\refint\PlayWithNamespace.dll
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\PlayWithNamespace.pdb
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\PlayWithNamespace.genruntimeconfig.cache
+E:\C# Roadmap Coding\PlayWithNamespace\PlayWithNamespace\obj\Debug\net6.0\ref\PlayWithNamespace.dll
