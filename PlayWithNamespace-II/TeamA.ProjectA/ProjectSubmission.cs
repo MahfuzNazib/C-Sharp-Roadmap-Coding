@@ -7,6 +7,22 @@ namespace TeamA.ProjectA
         public int numberOfMember { get; set; }
         public string projectCategory { get; set; } = "";
 
+        public static void ProjectInformation()
+        {
+            ProjectSubmission projectSubmission = new ProjectSubmission();
+
+            Console.WriteLine("Enter Project Name : ");
+            projectSubmission.projectName = Console.ReadLine();
+
+            Console.WriteLine("Enter Project Category : ");
+            projectSubmission.projectCategory = Console.ReadLine();
+
+            Console.WriteLine("Number of Member : ");
+            projectSubmission.numberOfMember = Convert.ToInt32(Console.ReadLine());
+
+            ShowProjectDetail(projectSubmission);
+        }
+
         public static void ShowProjectDetail(ProjectSubmission projectSubmission)
         {
             Console.WriteLine("Project Details");
