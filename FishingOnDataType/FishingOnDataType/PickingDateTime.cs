@@ -4,9 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FishingOnDataType
+namespace FishingOnDataType 
 {
-    internal class PickingDateTime
+    public class PickingDateTime
     {
+        public DateTime currentDateTimeNow = DateTime.Now;
+        public DateTime onlyCurrentDate = DateTime.Now;
+        public void Print()
+        {
+            Console.WriteLine($"Current Date Time Now : {currentDateTimeNow}");
+            Console.WriteLine($"Only Current Date : {onlyCurrentDate}");
+
+        }
     }
 }
