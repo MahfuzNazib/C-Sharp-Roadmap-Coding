@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# Roadmap Coding\\FishingOnDataType\\FishingOnDataType\\FishingOnDataType.csproj": {}
+    "E:\\Learning\\C#\\C-Sharp-Roadmap-Coding\\FishingOnDataType\\FishingOnDataType\\FishingOnDataType.csproj": {}
   },
   "projects": {
-    "E:\\C# Roadmap Coding\\FishingOnDataType\\FishingOnDataType\\FishingOnDataType.csproj": {
+    "E:\\Learning\\C#\\C-Sharp-Roadmap-Coding\\FishingOnDataType\\FishingOnDataType\\FishingOnDataType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# Roadmap Coding\\FishingOnDataType\\FishingOnDataType\\FishingOnDataType.csproj",
+        "projectUniqueName": "E:\\Learning\\C#\\C-Sharp-Roadmap-Coding\\FishingOnDataType\\FishingOnDataType\\FishingOnDataType.csproj",
         "projectName": "FishingOnDataType",
-        "projectPath": "E:\\C# Roadmap Coding\\FishingOnDataType\\FishingOnDataType\\FishingOnDataType.csproj",
-        "packagesPath": "C:\\Users\\Nazib.m\\.nuget\\packages\\",
-        "outputPath": "E:\\C# Roadmap Coding\\FishingOnDataType\\FishingOnDataType\\obj\\",
+        "projectPath": "E:\\Learning\\C#\\C-Sharp-Roadmap-Coding\\FishingOnDataType\\FishingOnDataType\\FishingOnDataType.csproj",
+        "packagesPath": "C:\\Users\\nazib\\.nuget\\packages\\",
+        "outputPath": "E:\\Learning\\C#\\C-Sharp-Roadmap-Coding\\FishingOnDataType\\FishingOnDataType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nazib.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nazib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

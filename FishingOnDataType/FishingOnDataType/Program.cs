@@ -26,6 +26,10 @@ namespace FishingOnDataType
 
             AnonymousType anonymousType = new AnonymousType();
             anonymousType.Print();
+
+
+            DynamicType dynamicType = new DynamicType();
+            dynamicType.PrintDynamicType();
         }
     }
 }

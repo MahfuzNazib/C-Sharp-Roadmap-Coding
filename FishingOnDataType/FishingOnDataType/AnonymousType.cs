@@ -40,7 +40,17 @@ namespace FishingOnDataType
                     Price = 55000,
                     Currency = "BDT"
                 }
-        };
+            };
+
+            Console.WriteLine("Print Nested Anonymouse");
+            Console.WriteLine("Employee Information");
+            Console.WriteLine($"Emp Id : {Employee.EmployeeId}");
+            Console.WriteLine($"Emp Id : {Employee.EmployeeName}");
+            Console.WriteLine("Employee Equipment Print");
+            Console.WriteLine($"Device Type : {Employee.Equipment.Name}");
+            Console.WriteLine($"Device Type : {Employee.Equipment.Model}");
+            Console.WriteLine($"Device Type : {Employee.Equipment.Price}");
+            Console.WriteLine($"Device Type : {Employee.Equipment.Currency}");
         }
     }
 }

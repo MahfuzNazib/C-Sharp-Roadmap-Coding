@@ -13,3 +13,18 @@ E:\C# Roadmap Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\refint
 E:\C# Roadmap Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.pdb
 E:\C# Roadmap Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.genruntimeconfig.cache
 E:\C# Roadmap Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\ref\FishingOnDataType.dll
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.csproj.AssemblyReference.cache
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.AssemblyInfoInputs.cache
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.AssemblyInfo.cs
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.csproj.CoreCompileInputs.cache
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.dll
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\refint\FishingOnDataType.dll
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.pdb
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\bin\Debug\net6.0\FishingOnDataType.exe
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\bin\Debug\net6.0\FishingOnDataType.deps.json
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\bin\Debug\net6.0\FishingOnDataType.runtimeconfig.json
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\bin\Debug\net6.0\FishingOnDataType.dll
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\bin\Debug\net6.0\FishingOnDataType.pdb
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\FishingOnDataType.genruntimeconfig.cache
+E:\Learning\C#\C-Sharp-Roadmap-Coding\FishingOnDataType\FishingOnDataType\obj\Debug\net6.0\ref\FishingOnDataType.dll
